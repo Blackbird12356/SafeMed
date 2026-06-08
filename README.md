@@ -1,4 +1,6 @@
-SafeMed 💊
+# SafeMed 💊
+
+![1st Place](https://img.shields.io/badge/1st%20Place-IT--Bridge%202026-brightgreen?style=for-the-badge&logo=trophy)
 
 🏆 Achievement: 1st Place at the I International Competition of Course Projects "IT-Bridge: Russia – Kazakhstan".
 
