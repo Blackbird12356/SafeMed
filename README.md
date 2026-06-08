@@ -1,4 +1,5 @@
 SafeMed 💊
+
 🏆 Achievement: 1st Place at the I International Competition of Course Projects "IT-Bridge: Russia – Kazakhstan".
 
 SafeMed is a native Android application designed for automated and strict medication tracking. The project is primarily created for the elderly and patients with chronic diseases for whom adhering to a treatment schedule is critical.
@@ -6,6 +7,7 @@ SafeMed is a native Android application designed for automated and strict medica
 The main feature of the app: it doesn't just "ring", but requires mandatory photo-confirmation of the taken pill, followed by the automatic sending of a report to a trusted person (relative or doctor) via Telegram.
 
 🚀 Key Features
+
 ⏰ Strict Schedule (Recurrence): Flexible configuration of weekdays and exact time for medication intake.
 
 🛡️ Guaranteed Alerts: Using AlarmManager and Full-Screen Intent allows displaying the alarm window over the system lock, successfully bypassing sleep mode restrictions (Doze Mode).
@@ -31,11 +33,10 @@ Network Interaction: HTTP requests (Telegram Bot API)
 
 File Security: FileProvider (AndroidX)
 
-📱 Screenshots
-(Add your screenshots here)
-
 ⚙️ Setup and Installation (For Developers)
+
 Clone the repository:
+
 git clone [https://github.com/Blackbird12356/SafeMed.git](https://github.com/Blackbird12356/SafeMed.git)
 
 Open the project in Android Studio.
